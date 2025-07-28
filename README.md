@@ -6,7 +6,7 @@ This is a simple command-line based store management Application built in Java u
 #Features
 
 
-Add products
-Sell products
-Display store stats
-Uses OOP pronciples:Classes,Objects,Inheritance
+-Add products
+-Sell products
+-Display store stats
+-Uses OOP pronciples:Classes,Objects,Inheritance
