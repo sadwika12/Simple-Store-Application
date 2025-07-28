@@ -1,9 +1,9 @@
 # Simple-Store-Application
-This is a simple command-line based store management Application built in Java using OOP principles.
+  This is a simple command-line based store management Application built in Java using OOP principles.
 
 
 
-#Features
+# Features
 
 
 - Add products
